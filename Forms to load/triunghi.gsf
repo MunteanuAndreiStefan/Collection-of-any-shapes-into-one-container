@@ -1,0 +1,4 @@
+Name=Triunghi
+DrawLine=100;0;0;100
+DrawLine=100;100;100;0
+DrawLine=0;100;100;100

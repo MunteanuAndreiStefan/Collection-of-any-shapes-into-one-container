@@ -1,0 +1,14 @@
+Name=Cerc
+DrawEllipse=75;75;50;50
+ENDOF
+Name=Patrat
+DrawPolygon=50;50;100;50;100;100;50;100;50;50
+ENDOF
+Name=Triunghi
+DrawLine=100;0;0;100
+DrawLine=100;100;100;0
+DrawLine=0;100;100;100
+ENDOF
+Name=Linie noua
+DrawLine=100;0;0;100
+ENDOF

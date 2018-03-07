@@ -1,0 +1,10 @@
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\bin\Debug\Lab1IP2.exe.config
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\bin\Debug\Lab1IP2.exe
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\bin\Debug\Lab1IP2.pdb
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\obj\Debug\Lab1IP1.Form1.resources
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\obj\Debug\Lab1IP2.Properties.Resources.resources
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\obj\Debug\Lab1IP1.csproj.GenerateResource.Cache
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\obj\Debug\Lab1IP1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\obj\Debug\Lab1IP2.exe
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\obj\Debug\Lab1IP2.pdb
+C:\Users\Stefan\source\repos\Lab1IP1\Lab1IP2\obj\Debug\Lab1IP1.csprojResolveAssemblyReference.cache
